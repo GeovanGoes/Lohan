@@ -1,4 +1,4 @@
-@import url('https://github.com/GeovanGoes/Lohan/statics/fonts/Mont/mont');
+@import url('https://raw.githubusercontent.com/GeovanGoes/Lohan/main/statics/fonts/Mont/mont');
 div, a, h1, h2, h3, h4, h5, h6, h7, span, input {
 	font-family: 'Mont', sans-serif !important;
 }

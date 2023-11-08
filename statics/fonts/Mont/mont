@@ -1,4 +1,4 @@
-@font-face{font-family:mont;font-style:normal;font-weight:300;src:local('Mont'),url(https://github.com/GeovanGoes/Lohan/statics/fonts/Mont/Mont-ExtraLight.otf) format('otf')}
-@font-face{font-family:mont;font-style:normal;font-weight:900;src:local('Mont'),url(https://github.com/GeovanGoes/Lohan/statics/fonts/Mont/Mont-Heavy.otf) format('otf')}
+@font-face{font-family:mont;font-style:normal;font-weight:300;src:local('Mont'),url(https://raw.githubusercontent.com/GeovanGoes/Lohan/main/statics/fonts/Mont/Mont-ExtraLight.otf) format('otf')}
+@font-face{font-family:mont;font-style:normal;font-weight:900;src:local('Mont'),url(https://raw.githubusercontent.com/GeovanGoes/Lohan/main/statics/fonts/Mont/Mont-Heavy.otf) format('otf')}
 
 
